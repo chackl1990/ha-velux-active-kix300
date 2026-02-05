@@ -1,0 +1,9 @@
+{
+  "name": "Velux Active KIX 300",
+  "content_in_root": false,
+  "domains": [
+    "velux_active"
+  ],
+  "homeassistant": "2024.6.0",
+  "render_readme": true
+}

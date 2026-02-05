@@ -1,0 +1,28 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Velux Active KIX 300",
+        "description": "Bitte die Zugangsdaten für den VELUX ACTIVE Account eingeben.",
+        "data": {
+          "account": "Account",
+          "password": "Passwort"
+        }
+      }
+    },
+    "error": {
+      "auth": "Anmeldung fehlgeschlagen."
+    }
+  },
+  "state": {
+    "sensor": {
+      "air_quality": {
+        "excellent": "Ausgezeichnet",
+        "very_good": "Sehr gut",
+        "good": "Gut",
+        "poor": "Schlecht",
+        "warning": "Warnung"
+      }
+    }
+  }
+}

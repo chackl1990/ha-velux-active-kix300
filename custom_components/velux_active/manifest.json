@@ -1,0 +1,13 @@
+{
+  "domain": "velux_active",
+  "name": "Velux Active KIX 300",
+  "codeowners": [
+    "chackl1990"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/chackl1990/ha-velux-active-kix300",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}
